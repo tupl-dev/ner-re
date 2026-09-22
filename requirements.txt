@@ -1,0 +1,5 @@
+accelerate
+jupyter
+neo4j
+pypdf
+transformers
